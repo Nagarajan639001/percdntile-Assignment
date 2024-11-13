@@ -1,0 +1,29 @@
+        sl_no	ssc_p	hsc_p	degree_p	etest_p	    mba_p	 salary
+Mean	108	   67.3034	66.3332	66.3702	     72.1006	62.2782	 288655
+Median	108	   67	    65	    66	         71	        62	     265000
+Mode	1	   62	    63	    65	         60	        56.7	 300000
+Q1:25%	54.5   60.6	    60.9	61	         60	        57.945	 240000
+Q2:50%	108	   67	    65	    66	         71	        62	     265000
+Q3:75%	161.5  75.7	    73	    72	         83.5	    66.255	 300000
+99% 	212.86 87	    91.86	83.86	     97	        76.1142	  NaN
+Q4:100%	215	   89.4	    97.7	91	         98	        77.89	 940000
+
+Summarized
+
+1.SSC Passed-25% is 60.6% ,50% is 67% so difference between 25 to 50 % increased 7%
+  75% is 75.7 % 100%-89.4% ovall ssc passed -89.4
+
+2.HSC Passed-25% is 60.9% ,50% is 65% so difference between 25 to 50 % increased 4%
+  75% is 73 % 100%-97.7% ovall HSC passed -97.7% . It is good to compared SSC passed
+
+3.Degree passed-25% is 61% ,50% is 66% so difference between 25 to 50 % increased 5%
+  75% is 72 % 100%-91% ovall Degree passed -91% . It is  less to compared HSC passed but better to SSC
+
+4.Enteran Test passed-25% is 60% ,50% is 71% so difference between 25 to 50 % increased 11%
+  75% is 83.5 % 100%-98% ovall Enterance test passed -98% . It is good  performance
+5. MBA passed 25% is 57.945 ,50% is 62% so difference between 25 to 50 % increased 4%
+  75% is 66.255 % 100%-77% ovall MBA passed -77.89% . It is less to compared to Degree passed
+
+6. Salar 25% is 240000 ,50% is 265000 so difference between 25 to 50 % increased 25000 only
+  75% is 300000 % 100%-940000 ovall  salary Avg. 940000 . It is good
+
